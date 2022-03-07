@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="button_roll">Lanzar</string>
+    <string name="dice_image">Dado</string>
+</resources>
